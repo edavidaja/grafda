@@ -1,3 +1,3 @@
 # graFDA
 
-FDA's pubic data in a graph database
+FDA's public drugs data in a graph database
